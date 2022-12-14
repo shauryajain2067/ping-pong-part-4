@@ -1,0 +1,43 @@
+body
+{
+background-size:cover;
+}
+
+.heading{
+    margin:0;
+    width:100%;
+    font-size:22px;
+    color:black;
+}
+.heading button{
+    font-size:15px;
+    border:1px solid white;
+    float:right;
+}
+.heading h3{
+    display:inline;
+    float:left;
+}
+
+#start{
+    width:100px;
+    
+}
+
+#footer{
+    position:fixed;
+    bottom:0;
+    background-color:#722f37;
+    letter-spacing:5px;
+    font-weight:bold;
+    font-style:italic;
+    font-size:20px;
+    line-height: 1;
+    width:100%;
+    color:white;
+}
+canvas{
+    border:5px solid white;
+    box-shadow:5px 5px 5px white;
+    border-radius:35px;
+}
